@@ -180,6 +180,12 @@ body {
   width: 100%;
 }
 
+.conteudo button{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
 .post .fundo .acoes {
   display: flex;
   justify-content: space-between;
